@@ -1,5 +1,5 @@
-valid_email = "gulbinalyuba@gmail.com"
-valid_password = '38cEULYYB3L4w'
+valid_email = ""
+valid_password = ''
 
 invalid_email = "name@qwerty.com"
 invalid_password = "123"
